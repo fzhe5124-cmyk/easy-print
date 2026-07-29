@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/14c1ecf4-6d29-4ee7-bd53-42efb98c121e
 [README.md](https://github.com/user-attachments/files/30516349/README.md)
 <div align="center">
   <img src="easy_print/icons/logo.png" width="256" alt="Easy-Print Logo"/>
@@ -34,6 +36,10 @@ Easy-Print lets you split 3D models and add interlocking connectors with just a 
 
 <!-- Place your demo video here -->
 <!-- 
+
+https://github.com/user-attachments/assets/2d162206-1357-4608-8e1a-297983a213b1
+
+
 <p align="center">
   <video src="show-vedio.mp4" width="600" controls></video>
 </p>
@@ -111,12 +117,6 @@ This project is licensed under **GNU General Public License v3.0**.
 
 **Double_G** — fzhe5124@gmail.com
 
-## 🙏 Acknowledgments
-
-- [BoxCutter](https://blendermarket.com/products/boxcutter) (boolean workflow reference)
-- [HardOps](https://blendermarket.com/products/hardops) (modifier baking patterns)
-
----
 
 <div align="center">
   <p>⭐ If you find this useful, consider starring the repo!</p>
