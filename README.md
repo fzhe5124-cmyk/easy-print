@@ -31,6 +31,8 @@ Easy-Print lets you split 3D models and add interlocking connectors with just a 
 
 https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba 
 
+
+
 <!-- Place your demo video here -->
 <!-- 
 <p align="center">
@@ -53,10 +55,6 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 4. Enable "Easy-Print"
 
 ## 🚀 Usage
-
-<p align="center">
-  <img src="1.png" width="600" alt="Usage screenshot"/>
-</p>
 
 ### 1. Cut
 | Step | Action |
