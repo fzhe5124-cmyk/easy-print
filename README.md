@@ -17,10 +17,6 @@
 
 Easy-Print lets you split 3D models and add interlocking connectors with just a few clicks. Draw a line across your model to cut it in half, then generate matching male/female connectors — Tab & Slot, Peg & Hole, or Dovetail — ready for 3D printing.
 
-<p align="center">
-  <img src="Easy-Print.png" width="600" alt="Easy-Print Demo"/>
-</p>
-
 ## ✨ Features
 
 - ✂️ **One-Click Cut** — Draw a line across the model, click to split
@@ -33,8 +29,7 @@ Easy-Print lets you split 3D models and add interlocking connectors with just a 
 ## 🎬 Demo
 
 
-https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
-
+https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba 
 
 <!-- Place your demo video here -->
 <!-- 
