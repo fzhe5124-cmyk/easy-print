@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+blender_version_min = "4.2.0"
+
+id = "easy_print"
+name = "Easy-Print"
+version = "0.1.0"
+tagline = "Cut models and generate interlocking connectors for 3D printing"
+maintainer = "Double_G"
+type = "add-on"
+
+tags = ["Modeling", "Mesh"]
+license = ["SPDX:GPL-3.0-or-later"]
+
+website = "https://extensions.blender.org/add-ons/easy-print/"
