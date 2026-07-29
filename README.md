@@ -1,6 +1,4 @@
 
-https://github.com/user-attachments/assets/14c1ecf4-6d29-4ee7-bd53-42efb98c121e
-[README.md](https://github.com/user-attachments/files/30516349/README.md)
 <div align="center">
   <img src="easy_print/icons/logo.png" width="256" alt="Easy-Print Logo"/>
   <h1>Easy-Print</h1>
@@ -34,20 +32,16 @@ Easy-Print lets you split 3D models and add interlocking connectors with just a 
 
 ## 🎬 Demo
 
+
+https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
+
+
 <!-- Place your demo video here -->
 <!-- 
-
-https://github.com/user-attachments/assets/2d162206-1357-4608-8e1a-297983a213b1
-
-
 <p align="center">
   <video src="show-vedio.mp4" width="600" controls></video>
 </p>
 -->
-
-<p align="center">
-  <i>Demo video coming soon</i>
-</p>
 
 ## 📦 Installation
 
