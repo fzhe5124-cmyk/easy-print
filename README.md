@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 3. Search **"Easy-Print"** → **Install**
 
 **Manual**
-1. Download `easy_print.zip` from [Releases](https://github.com/fzhe5124-cmyk/easy-print/releases)
+1. Download easy_print.zip from [Releases](https://github.com/fzhe5124-cmyk/easy-print/releases)
 2. **Edit** → **Preferences** → **Add-ons** → ⏷ → **Install from Disk**
 3. Select the file and enable **Easy-Print**
 
