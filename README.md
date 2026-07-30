@@ -23,6 +23,7 @@ Easy-Print simplifies the 3D printing workflow by allowing you to cut a model al
 - **Line-based cutting** — Draw a line across the model to define the cut plane
 - **Three connector types** — Tab & Slot (rectangular), Peg & Hole (cylindrical), Dovetail (trapezoidal rail)
 - **Auto-sizing** — Connector dimensions adapt to the cut surface automatically
+- **Multiple connectors** — Place one or many connectors on a single cut surface; count, margin, and distribution are fully configurable
 - **Clearance control** — Adjustable tolerance gap for FDM and SLA printing
 - **Post-generation adjustment** — Scroll to change depth; Shift+Scroll to change size
 - **X-ray preview** — Transparent view during adjustment for precise alignment
