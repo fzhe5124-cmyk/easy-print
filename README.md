@@ -53,6 +53,8 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 
 ### Cut
 
+<div align="center">
+
 | Step          | Action                                                                  |
 |:--------------|:------------------------------------------------------------------------|
 | Select        | Select a mesh object in Object Mode                                     |
@@ -60,7 +62,11 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 | Draw Line     | Click and drag across the model surface                                 |
 | Confirm       | Release to preview, click to cut                                        |
 
+</div>
+
 ### Connect
+
+<div align="center">
 
 | Step                 | Action                                         |
 |:---------------------|:-----------------------------------------------|
@@ -68,7 +74,11 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 | Choose Type          | Pick a connector type from the dropdown        |
 | Generate             | Click **Generate Connectors**                  |
 
+</div>
+
 ### Adjust
+
+<div align="center">
 
 | Input              | Action                     |
 |:-------------------|:---------------------------|
@@ -77,13 +87,19 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 | Left Click         | Confirm and finalize       |
 | Right Click / Esc  | Cancel and discard         |
 
+</div>
+
 ## Connector Types
+
+<div align="center">
 
 | Type          | Shape              | Use Case                                   |
 |:--------------|:-------------------|:-------------------------------------------|
 | Tab & Slot    | Rectangular        | General-purpose, most stable               |
 | Peg & Hole    | Cylindrical        | Alignment pins, snap-fit joints            |
 | Dovetail      | Trapezoidal rail   | Sliding assembly, lateral shear resistance |
+
+</div>
 
 ## Requirements
 
