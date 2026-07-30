@@ -53,37 +53,37 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 
 ### Cut
 
-| Step | Action |
-|------|--------|
-| Select | Select a mesh object in Object Mode |
-| Cut Model | Click the button in the Easy-Print panel (N key → Easy-Print tab) |
-| Draw Line | Click and drag across the model surface |
-| Confirm | Release to preview, click to cut |
+| Step          | Action                                                                  |
+|:--------------|:------------------------------------------------------------------------|
+| Select        | Select a mesh object in Object Mode                                     |
+| Cut Model     | Click the button in the Easy-Print panel (N key → Easy-Print tab)       |
+| Draw Line     | Click and drag across the model surface                                 |
+| Confirm       | Release to preview, click to cut                                        |
 
 ### Connect
 
-| Step | Action |
-|------|--------|
-| Select Both Halves | Select the two resulting mesh objects |
-| Choose Type | Pick a connector type from the dropdown |
-| Generate | Click **Generate Connectors** |
+| Step                 | Action                                         |
+|:---------------------|:-----------------------------------------------|
+| Select Both Halves   | Select the two resulting mesh objects          |
+| Choose Type          | Pick a connector type from the dropdown        |
+| Generate             | Click **Generate Connectors**                  |
 
 ### Adjust
 
-| Input | Action |
-|-------|--------|
-| Scroll | Change connector depth |
-| Shift + Scroll | Change connector size |
-| Left Click | Confirm and finalize |
-| Right Click / Esc | Cancel and discard |
+| Input              | Action                     |
+|:-------------------|:---------------------------|
+| Scroll             | Change connector depth     |
+| Shift + Scroll     | Change connector size      |
+| Left Click         | Confirm and finalize       |
+| Right Click / Esc  | Cancel and discard         |
 
 ## Connector Types
 
-| Type | Shape | Use Case |
-|------|-------|----------|
-| Tab & Slot | Rectangular | General-purpose, most stable |
-| Peg & Hole | Cylindrical | Alignment pins, snap-fit joints |
-| Dovetail | Trapezoidal rail | Sliding assembly, lateral shear resistance |
+| Type          | Shape              | Use Case                                   |
+|:--------------|:-------------------|:-------------------------------------------|
+| Tab & Slot    | Rectangular        | General-purpose, most stable               |
+| Peg & Hole    | Cylindrical        | Alignment pins, snap-fit joints            |
+| Dovetail      | Trapezoidal rail   | Sliding assembly, lateral shear resistance |
 
 ## Requirements
 
