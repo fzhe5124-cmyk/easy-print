@@ -28,13 +28,13 @@ Easy-Print lets you split a 3D model and add interlocking connectors for printin
 
 | &nbsp; | &nbsp; |
 |:---|:---|
-| 🎯 **Line-Based Cutting** | Draw a line to define the cut plane — no manual knife work. |
-| 🔧 **Three Connector Types** | Tab & Slot, Peg & Hole, and Dovetail — auto-sized to the surface. |
-| 🏗️ **Multi-Connector Placement** | Place one or many connectors per face; count, margin, and distribution are fully configurable. |
-| ⚙️ **Adjustable Clearance** | Tolerance gap tuned for FDM and SLA printers (default 2%). |
-| 🎛️ **Live Adjustment** | Scroll to dial depth; Shift+Scroll to change size — previews update in real time. |
-| 👁️ **X-Ray Preview** | See through the model during adjustment for precise alignment. |
-| 📐 **Orthographic Toggle** | View switches to ortho automatically while drawing the cut line. |
+| **Line-Based Cutting** | Draw a line to define the cut plane — no manual knife work. |
+| **Three Connector Types** | Tab & Slot, Peg & Hole, and Dovetail — auto-sized to the surface. |
+| **Multi-Connector Placement** | Place one or many connectors per face — count, margin, and distribution are fully configurable. |
+| **Adjustable Clearance** | Tolerance gap tuned for FDM and SLA printers (default 2%). |
+| **Live Adjustment** | Scroll to dial depth; Shift+Scroll to change size — previews update in real time. |
+| **X-Ray Preview** | See through the model during adjustment for precise alignment. |
+| **Orthographic Toggle** | View switches to ortho automatically while drawing the cut line. |
 | 🚀 **Blender 4.2 – 5.2** | Works across four major versions — zero external dependencies. |
 
 </div>
