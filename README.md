@@ -43,10 +43,11 @@ Easy-Print lets you split a 3D model and add interlocking connectors for printin
 <img width="816" height="578" alt="fuction" src="https://github.com/user-attachments/assets/2a837a3f-000e-4ba2-b1e0-4a3cd8f6a640" />
 </p>
 
-
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
+<p align="center">
+  https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
+</p>
 
 ## 📦 Installation
 
@@ -62,8 +63,6 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 1. Download easy_print.zip from [Releases](https://github.com/fzhe5124-cmyk/easy-print/releases)
 2. **Edit** → **Preferences** → **Add-ons** → ⏷ → **Install from Disk**
 3. Select the file and enable **Easy-Print**
-
-<div align="center">
 
 ### 01 · Cut
 
@@ -90,8 +89,6 @@ https://github.com/user-attachments/assets/be9648e3-b187-439e-9894-697de5bae5ba
 | **Shift + Scroll** | Change connector size |
 | **Left Click** | Confirm and finalize |
 | **Right Click** | Cancel and discard |
-
-</div>
 
 ## 🔗 Connector Types
 
