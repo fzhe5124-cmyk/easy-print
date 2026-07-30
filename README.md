@@ -38,6 +38,7 @@ Easy-Print lets you split a 3D model and add interlocking connectors for printin
 | 🚀 **Blender 4.2 – 5.2** | Works across four major versions — zero external dependencies. |
 
 </div>
+<img width="816" height="578" alt="fuction" src="https://github.com/user-attachments/assets/085868a5-eaf7-48c7-aa7c-f3f30de9cb5b" />
 
 ## 🎬 Demo
 
